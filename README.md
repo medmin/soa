@@ -1,7 +1,7 @@
 # soa
-SOA Scripts, sense of achivement, 成就感
+SOA Scripts, sense of achivement, 成就感脚本
 
 # The purpose of this repo
-Learning to code is a whole new journey to me. This journey is tough and I really need to push myself to go forward. During this journey, a small progress could mean a lot to me and motivate me to go further. It's called positive feedback loop. I really need the sense of achivement. So, I am writing down these small scripts that can do some nice and tricky jobs. They can amuse me and remind me how fun coding could be.
+Learning to code is a whole new journey to me. This journey is tough and I really need to push myself to go forward. During this journey, a small progress could mean a lot to me and motivate me to go further. It's called positive feedback loop. I really need the sense of achivement. So, I am writing down these small scripts that can do some nice and tricky jobs and record all the tiny achivements I have got. I think they can amuse me and remind me how fun coding could be.
 
 Eric 2017.3.17
